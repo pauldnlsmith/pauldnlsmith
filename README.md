@@ -7,6 +7,11 @@ I do some of my finest work in Excel.
 
 ## What I do
 
-- 🧮 **Statistics:** Cruncher of numbers, maker of models, plotter of graphs  
-- 💬 **Linguistics:** Educated as a linguist, happiest playing with words  
-- 🏖️ **Automation:** Proud connoisseur of the thinking man’s laziness
+- 🧮 **Statistics:** Cruncher of numbers, maker of models, plotter of graphs.  
+- 💬 **Linguistics:** Educated as a linguist, happiest playing with words.  
+- 🏖️ **Automation:** Proud connoisseur of the thinking man’s laziness.
+
+## Languages
+
+- R
+- sh
