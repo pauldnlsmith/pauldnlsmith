@@ -11,7 +11,7 @@ I do some of my finest work in Excel.
 - 💬 **Linguistics:** Educated as a linguist, happiest playing with words.  
 - 🏖️ **Automation:** Proud connoisseur of the thinking man’s laziness.
 
-## Languages
+## How I do it
 
 - R
 - sh
